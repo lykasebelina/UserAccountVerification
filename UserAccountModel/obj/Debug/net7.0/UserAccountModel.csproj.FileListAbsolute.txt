@@ -1,0 +1,12 @@
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/bin/Debug/net7.0/UserAccountModel.deps.json
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/bin/Debug/net7.0/UserAccountModel.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/bin/Debug/net7.0/UserAccountModel.pdb
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.csproj.AssemblyReference.cache
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.AssemblyInfoInputs.cache
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.AssemblyInfo.cs
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.csproj.CoreCompileInputs.cache
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/refint/UserAccountModel.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/UserAccountModel.pdb
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountModel/obj/Debug/net7.0/ref/UserAccountModel.dll

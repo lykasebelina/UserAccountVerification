@@ -1,0 +1,15 @@
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/bin/Debug/net7.0/UserAccountDataServices.deps.json
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/bin/Debug/net7.0/UserAccountDataServices.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/bin/Debug/net7.0/UserAccountDataServices.pdb
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/bin/Debug/net7.0/UserAccountModel.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/bin/Debug/net7.0/UserAccountModel.pdb
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.csproj.AssemblyReference.cache
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.AssemblyInfoInputs.cache
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.AssemblyInfo.cs
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.csproj.CoreCompileInputs.cache
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.csproj.CopyComplete
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/refint/UserAccountDataServices.dll
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/UserAccountDataServices.pdb
+/Users/lykamaesebelina/Projects/UserAccountBusinessServices/UserAccountDataServices/obj/Debug/net7.0/ref/UserAccountDataServices.dll

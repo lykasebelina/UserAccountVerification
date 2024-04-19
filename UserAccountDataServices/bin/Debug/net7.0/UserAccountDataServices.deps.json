@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UserAccountDataServices/1.0.0": {
+        "dependencies": {
+          "UserAccountModel": "1.0.0"
+        },
+        "runtime": {
+          "UserAccountDataServices.dll": {}
+        }
+      },
+      "UserAccountModel/1.0.0": {
+        "runtime": {
+          "UserAccountModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserAccountDataServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserAccountModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
